@@ -8,7 +8,7 @@
 
 ## Учебные макеты:
 
-### (SCSS, JavaScript, HTML, CSS)
+### (Sass, JavaScript, HTML, CSS)
 
 -[Макет сайта ремонта техники](https://semeniukvlad.github.io/repair/)
 
