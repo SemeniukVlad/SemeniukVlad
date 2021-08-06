@@ -1,16 +1,31 @@
-### Hi there 👋
+# Мои проекты:
 
-<!--
-**SemeniukVlad/SemeniukVlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Приложения:
 
-Here are some ideas to get you started:
+### (JavaScript, HTML, CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-[Генератор случайного узора мозаичной плитки с выбором из нескольких текстур и другими опциями.](https://semeniukvlad.github.io/demo/)
+
+## Учебные макеты:
+
+### (SCSS, JavaScript, HTML, CSS)
+
+-[Макет сайта ремонта техники](https://semeniukvlad.github.io/repair/)
+
+-[Макет сайта заповедника](https://semeniukvlad.github.io/Nature/)
+
+### (HTML, CSS, UIkit)
+
+-[Макет сайта школы иностранных языков](https://semeniukvlad.github.io/School/)
+
+-[Макет сайта компании, созданный по шаблону-изображению](https://semeniukvlad.github.io/Company/)
+
+-Копия сайта [franco.gr](franco.gr), написанная с нуля и переделана с многостраничного сайта в [лендинг](https://semeniukvlad.github.io/franco/)
+
+## Также участвовал в:
+
+### (CMS Joomla, YooTheme, UIkit)
+
+-http://new.cmg-dostavka.com.ua/
+
+
