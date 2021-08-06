@@ -20,7 +20,7 @@
 
 -[Макет сайта компании, созданный по шаблону-изображению](https://semeniukvlad.github.io/Company/)
 
--Копия сайта [franco.gr](franco.gr), написанная с нуля и переделана с многостраничного сайта в [лендинг](https://semeniukvlad.github.io/franco/)
+-Копия сайта [franco.gr](https://www.franco.gr), написанная с нуля и переделана с многостраничного сайта в [лендинг](https://semeniukvlad.github.io/franco/)
 
 ## Также участвовал в:
 
