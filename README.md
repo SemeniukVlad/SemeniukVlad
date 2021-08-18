@@ -1,3 +1,11 @@
+
+## Участвовал в:
+
+### (CMS Joomla, YooTheme, UIkit)
+
+-http://new.cmg-dostavka.com.ua/
+
+
 # Мои проекты:
 
 ## Приложения:
@@ -21,11 +29,4 @@
 -[Макет сайта компании, созданный по шаблону-изображению](https://semeniukvlad.github.io/Company/)
 
 -Копия сайта [franco.gr](https://www.franco.gr), написанная с нуля и переделана с многостраничного сайта в [лендинг](https://semeniukvlad.github.io/franco/)
-
-## Также участвовал в:
-
-### (CMS Joomla, YooTheme, UIkit)
-
--http://new.cmg-dostavka.com.ua/
-
 
