@@ -15,7 +15,7 @@
 
 ## Учебные макеты:
 
-### По дизайнам на Figma (Sass, Javascript, HTML, CSS, Gulp, БэМ, Swiper, Bootstrap):
+### По дизайнам на Figma (Sass, Javascript, HTML, CSS, Gulp, БЭМ, Swiper, Bootstrap):
  
 - [Макет сайта фирмы](https://semeniukvlad.github.io/porten)
 - [Макет сайта театра](https://semeniukvlad.github.io/theatre)
