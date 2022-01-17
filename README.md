@@ -15,6 +15,12 @@
 
 ## Учебные макеты:
 
+### По дизайнам на Figma:
+
+- [Макет сайта фирмы часов](https://semeniukvlad.github.io/porten)
+- [Макет сайта театра](https://semeniukvlad.github.io/theatre)
+- [Многостраничный макет сайта ореховой продукции](https://semeniukvlad.github.io/oreh)
+
 ### (Sass, JavaScript, HTML, CSS)
 
 -[Макет сайта ремонта техники](https://semeniukvlad.github.io/repair/)
