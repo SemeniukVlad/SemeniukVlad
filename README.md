@@ -1,37 +1,37 @@
-# Мои проекты:
+# My projects:
 
-## Участвовал в:
+## Took part in development of:
 
 ### (CMS Joomla, YooTheme, UIkit)
 
 - http://new.cmg-dostavka.com.ua/
 
 
-## Приложения:
+## Apps:
 
 ### (JavaScript, HTML, CSS)
 
-- [Генератор случайного узора мозаичной плитки с выбором из нескольких текстур и другими опциями.](https://semeniukvlad.github.io/demo/)
+- [Random tile pattern generator with several options.](https://semeniukvlad.github.io/demo/)
 
-## Учебные макеты:
+## Training projects:
 
-### По дизайнам на Figma (Sass, Javascript, HTML, CSS, Gulp, БЭМ, Swiper, Bootstrap):
+### Using designs uploaded on Figma (Sass, Javascript, HTML, CSS, Gulp, БЭМ, Swiper, Bootstrap):
  
-- [Макет сайта фирмы](https://semeniukvlad.github.io/porten)
-- [Макет сайта театра](https://semeniukvlad.github.io/theatre)
-- [Многостраничный макет сайта ореховой продукции](https://semeniukvlad.github.io/oreh)
+- [Company website](https://semeniukvlad.github.io/porten)
+- [Theatre website](https://semeniukvlad.github.io/theatre)
+- [Multi-page website for nut products](https://semeniukvlad.github.io/oreh)
 
 ### (Sass, JavaScript, HTML, CSS)
 
-- [Макет сайта ремонта техники](https://semeniukvlad.github.io/repair/)
+- [Technology repair website](https://semeniukvlad.github.io/repair/)
 
-- [Макет сайта заповедника](https://semeniukvlad.github.io/Nature/)
+- [National park website](https://semeniukvlad.github.io/Nature/)
 
 ### (HTML, CSS, UIkit)
 
-- [Макет сайта школы иностранных языков](https://semeniukvlad.github.io/School/)
+- [Foreign language school website](https://semeniukvlad.github.io/School/)
 
-- [Макет сайта компании, созданный по шаблону-изображению](https://semeniukvlad.github.io/Company/)
+- [Company website, made from image with its design](https://semeniukvlad.github.io/Company/)
 
-- Копия сайта [franco.gr](https://www.franco.gr), написанная с нуля и переделана с многостраничного сайта в [лендинг](https://semeniukvlad.github.io/franco/)
+- Cop of [franco.gr](https://www.franco.gr), custom made and changed from multi-page into a [landing](https://semeniukvlad.github.io/franco/)
 
